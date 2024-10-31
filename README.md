@@ -1,7 +1,7 @@
 GENERATIVE AI DETECTION ON HATESPEECH DATASET 
 
 - GitHub URL https://github.com/StephBarwick/P000456CSITCP.git
-- Ensure pyton version 3.9+ is used
+- Ensure python version 3.9+ is used
 - Ensure all files in the folder is downloaded to the same loaction as the jupyternotebook model_extend.ipynb.
 - Files to download:
    - TwitteHate.csv: Dataset with hate speech tweets 
